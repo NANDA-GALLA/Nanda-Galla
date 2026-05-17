@@ -1,3 +1,8 @@
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Nanda+Siva+Srinivas+Galla;Full+Stack+Developer+%7C+Spring+Boot+%7C+React.js;AI%2FML+Explorer+%7C+C%2B%2B+Developer;Just+do+don't+say+💪" alt="Typing Animation" />
+</p>
+
 # 💫 About Me:
 💡 Passionate about building scalable full-stack applications and solving real-world problems through code.<br>🎯 Skilled in Java, Python, and Full Stack Development using React.js, TypeScript, and Spring Boot.<br>🚀 Exploring AI/ML, Data Engineering, and Cloud Technologies (AWS).<br>📫 Reach me at galla.nanda143@gmail.com<br>💬 Motto — “Just do don’t say 💪”
 
@@ -23,5 +28,12 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=NANDA-GALLA&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- PROFESSIONAL FOOTER -->
+<p align="center">
+  <b>🚀 "Striving for excellence in every line of code" 🚀</b><br>
+  <i>© 2025 Nanda Siva Srinivas Galla | Full Stack Developer | KL University</i>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
