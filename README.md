@@ -3,10 +3,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Nanda+Siva+Srinivas+Galla;Full+Stack+Developer+%7C+Spring+Boot+%7C+React.js;AI%2FML+Explorer+%7C+C%2B%2B+Developer;Just+do+don't+say+💪" alt="Typing Animation" />
 </p>
 
-# 💫 About Me:
-💡 Passionate about building scalable full-stack applications and solving real-world problems through code.<br>🎯 Skilled in Java, Python, and Full Stack Development using React.js, TypeScript, and Spring Boot.<br>🚀 Exploring AI/ML, Data Engineering, and Cloud Technologies (AWS).<br>📫 Reach me at galla.nanda143@gmail.com<br>💬 Motto — “Just do don’t say 💪”
+--
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NANDA-GALLA&label=Profile%20Views&color=00C4FF&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/NANDA-GALLA?label=Followers&style=flat-square&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/NANDA-GALLA?style=flat-square&color=yellow" alt="stars"/>
+</p>
 
+---
+
+### 👨‍💻 About Me
+
+💡 Passionate about **building scalable full-stack applications** and solving real-world problems through code.  
+🎯 Skilled in **C++, Java, Python**, and **Full Stack Development** using **React.js**, **TypeScript**, and **Spring Boot**.  
+🚀 Exploring **AI/ML**, **Data Engineering**, and **Cloud Technologies (AWS)**.  
+📫 Reach me at **galla.nanda143@gmail.com**  
+💬 Motto — **“Just do don’t say 💪”**
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nanda-siva-srinivas-galla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:galla.nanda143@gmail.com) 
 
