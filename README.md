@@ -30,7 +30,7 @@ plications. Skilled in developing REST APIs, Microservices, CI/CD pipelines, Doc
 ---
 
 ## 📜 Certifications
-- ☁️ **AWS Certified: Machine Learning Engineer Associate ** – *June 2026*  
+- ☁️ AWS Certified: Machine Learning Engineer Associate
 
 ---
 
@@ -43,7 +43,7 @@ plications. Skilled in developing REST APIs, Microservices, CI/CD pipelines, Doc
 ---
 > <!-- PROFESSIONAL FOOTER -->
 <p align="center">
-  <b>🚀 "Striving for excellence in every line of code" 🚀</b><br>
+  <b>🚀 "Focus On Doing What You Do Best" 🚀</b><br>
   <i>© 2025 Galla Nanda Siva Srinivas | Full Stack Developer | KL University</i>
 </p>
 
