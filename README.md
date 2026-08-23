@@ -8,7 +8,7 @@
 
 🎓 **Computer Science Engineering Student** at **KL University**  
 💻 Full Stack Developer | Tech Enthusiast 
-📧 [galla.nanda143@gmail.com](mailto:gallaa.nandaa03@gmail.com) 
+📧 [gallaa.nandaa03@gmail.com](mailto:gallaa.nandaa03@gmail.com) 
 🔗 [LinkedIn](www.linkedin.com/in/nanda-siva-srinivas-galla) • [GitHub](https://github.com/NANDA-GALLA)
 
 ---
