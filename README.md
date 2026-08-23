@@ -7,8 +7,8 @@
 ---
 
 🎓 **Computer Science Engineering Student** at **KL University**  
-💻 Full Stack Developer | Tech Enthusiast | Youtuber 
-📧 [galla.nanda143@gmail.com](mailto:galla.nanda143@gmail.com) 
+💻 Full Stack Developer | Tech Enthusiast 
+📧 [galla.nanda143@gmail.com](mailto:gallaa.nandaa03@gmail.com) 
 🔗 [LinkedIn](www.linkedin.com/in/nanda-siva-srinivas-galla) • [GitHub](https://github.com/NANDA-GALLA) 
 
 ---
@@ -38,7 +38,7 @@ plications. Skilled in developing REST APIs, Microservices, CI/CD pipelines, Doc
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nanda-siva-srinivas-galla)  
 - 🧑‍💻 [GitHub](https://github.com/NANDA-GALLA)  
-- ✉️ [Email](mailto:galla.nanda143@gmail.com)
+- ✉️ [Email](mailto:gallaa.nandaa03@gmail.com)
 
 ---
 > <!-- PROFESSIONAL FOOTER -->
